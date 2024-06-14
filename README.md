@@ -1,1 +1,1 @@
-# Second_Cars_Analysis_my_sql_project
+# Secondhand_Cars_Analysis_my_sql_project
